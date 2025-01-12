@@ -5,6 +5,8 @@ This dataset contains 119390 observations for a City Hotel and a Resort Hotel. E
 
 **Content**
 Since this is hotel real data, all data elements pertaining hotel or costumer identification were deleted. Four Columns, 'name', 'email', 'phone number' and 'credit_card' have been artificially created and added to the dataset.
+<br>
+
 used data set:
 <br>
 
